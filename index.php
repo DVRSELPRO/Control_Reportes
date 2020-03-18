@@ -11,7 +11,12 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        
         ?>
+        <a href="tables-responsive.php">--- REPORTES --- </a>
+        <br>
+        <a href="tables-responsive.php">- Visita Domiciliaria -</a>
+        <br>
+        <a href="tables-responsive.php">- Módulos -</a><br>
+        <a href="tables-responsive.php">- Contributel -</a>
     </body>
 </html>
