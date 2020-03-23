@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-$db_handle = pg_connect("host='189.207.247.244' dbname=allie_predial port=5432 user=postgres password='allie2019$'");
+$db_handle = pg_connect("host='189.207.247.244' dbname=allie_predial port=5432 user=postgres password='4LLI32526'");
 //pg_query("create table testing2(id integer, name text)");
 //pg_query("insert into testing2 (id, name) values (3,'Dearcia')");
 if ($db_handle) {
